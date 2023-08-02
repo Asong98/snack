@@ -1,0 +1,8 @@
+﻿  snack.cpp
+g:\cocos\snack\snack\snack.cpp(73): warning C4018: “<”: 有符号/无符号不匹配
+g:\cocos\snack\snack\snack.cpp(96): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+g:\cocos\snack\snack\snack.cpp(238): warning C4018: “<”: 有符号/无符号不匹配
+g:\cocos\snack\snack\snack.cpp(292): warning C4018: “<”: 有符号/无符号不匹配
+g:\cocos\snack\snack\snack.cpp(317): warning C4018: “<”: 有符号/无符号不匹配
+g:\cocos\snack\snack\snack.cpp(333): warning C4018: “<”: 有符号/无符号不匹配
+  snack.vcxproj -> G:\cocos\snack\Debug\snack.exe
